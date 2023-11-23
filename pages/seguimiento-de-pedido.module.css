@@ -1,0 +1,66 @@
+.seguimientoDePedidoChild {
+  position: absolute;
+  top: 849px;
+  left: 178px;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.image1Icon,
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 844px;
+  left: 357px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  left: 95px;
+}
+.roomService1Icon,
+.sandwich1Icon {
+  left: 269px;
+}
+.sandwich1Icon {
+  left: 8px;
+}
+.seguimientoDePedidoInner,
+.seguimientoDePedidoItem {
+  position: absolute;
+  top: 831.5px;
+  left: 343.5px;
+  width: 4px;
+  height: 100.5px;
+}
+.seguimientoDePedidoInner {
+  left: 256.5px;
+}
+.lineDiv,
+.lineIcon {
+  position: absolute;
+  top: 830px;
+  left: 2px;
+  width: 257px;
+  height: 4px;
+}
+.lineDiv {
+  top: 828.5px;
+  left: 343.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 85px;
+  height: 3px;
+}
+.seguimientoDePedido {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+}

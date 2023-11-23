@@ -1,0 +1,158 @@
+.perfilConNombreAlumnxChild {
+  position: absolute;
+  top: 849px;
+  left: 178px;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.image1Icon,
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 844px;
+  left: 357px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  left: 95px;
+  opacity: 0.5;
+}
+.roomService1Icon,
+.sandwich1Icon {
+  left: 269px;
+}
+.sandwich1Icon {
+  left: 8px;
+}
+.perfilConNombreAlumnxItem {
+  position: absolute;
+  top: 102px;
+  left: 74px;
+  width: 283px;
+  height: 278px;
+}
+.perfilConNombreAlumnxInner {
+  position: absolute;
+  top: 830.5px;
+  left: 350px;
+  width: 4px;
+  height: 101.5px;
+}
+.lineDiv,
+.phoneNumberChild {
+  position: absolute;
+  box-sizing: border-box;
+}
+.lineDiv {
+  top: 828.5px;
+  left: 0.5px;
+  border-top: 3px solid var(--color-black);
+  width: 354px;
+  height: 3px;
+}
+.phoneNumberChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  width: 348px;
+  height: 61px;
+}
+.phoneNumber1 {
+  top: 12px;
+  left: 79px;
+  font-weight: 600;
+}
+.div,
+.phoneIcon,
+.phoneNumber1 {
+  position: absolute;
+}
+.div {
+  top: 30px;
+  left: 79px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-dimgray);
+}
+.phoneIcon {
+  top: 13px;
+  left: 31px;
+  border-radius: var(--br-12xs);
+  width: 21.5px;
+  height: 34px;
+}
+.phoneNumber {
+  position: absolute;
+  top: 571px;
+  left: 41px;
+  width: 348px;
+  height: 61px;
+}
+.nombreDeUsuario {
+  position: absolute;
+  top: 410px;
+  left: 133px;
+  font-size: 20px;
+  font-family: var(--font-inter);
+  color: #222;
+}
+.cardsOnFile1,
+.modifyOrView {
+  position: absolute;
+  top: 13px;
+  left: 79px;
+  font-weight: 600;
+}
+.modifyOrView {
+  top: 31px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+}
+.cardsOnFile,
+.cardsOnFileItem {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  width: 64px;
+  height: 39px;
+}
+.cardsOnFile {
+  top: 670px;
+  left: 41px;
+  width: 348px;
+  height: 61px;
+}
+.email,
+.emailIcon {
+  position: absolute;
+  top: 16px;
+  left: 22px;
+  width: 41px;
+  height: 29px;
+}
+.email {
+  top: 472px;
+  left: 41px;
+  width: 348px;
+  height: 61px;
+}
+.perfilConNombreAlumnx {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}

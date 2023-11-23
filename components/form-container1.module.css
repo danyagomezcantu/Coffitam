@@ -1,0 +1,109 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12.61px;
+  background-color: var(--color-gray-200);
+  width: 185.5px;
+  height: 279.8px;
+}
+.groupItem {
+  top: 14.6px;
+  border-radius: 14.99px;
+  height: 135.2px;
+  object-fit: cover;
+}
+.drizzledWithCaramel,
+.groupInner,
+.groupItem {
+  position: absolute;
+  left: 16.5px;
+  width: 152.5px;
+}
+.drizzledWithCaramel {
+  top: 159.5px;
+  line-height: 145%;
+  display: inline-block;
+  height: 42.6px;
+}
+.groupInner {
+  top: 218px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-300);
+  height: 47.5px;
+}
+.div {
+  position: absolute;
+  top: 231.1px;
+  left: 41.2px;
+  font-size: 15.98px;
+  line-height: 115%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-tan);
+  display: inline-block;
+  width: 50.8px;
+  height: 21.9px;
+}
+.groupIcon {
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 217.7px;
+  left: 115.4px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blanchedalmond);
+  width: 53.6px;
+  height: 47.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.98744010925293px;
+  box-sizing: border-box;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 14.6px;
+  left: 16.5px;
+  border-radius: 14.99px 0 14.99px var(--br-12xs);
+  background-color: var(--color-darkslategray);
+  backdrop-filter: blur(14.99px);
+  width: 56.3px;
+  height: 24.3px;
+}
+.groupChild1 {
+  position: absolute;
+  height: 4.36%;
+  width: 7.76%;
+  top: 7.4%;
+  right: 78.92%;
+  bottom: 88.24%;
+  left: 13.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1 {
+  position: absolute;
+  top: 15.8px;
+  left: 45.3px;
+  font-size: 9.99px;
+  display: inline-block;
+  width: 17.9px;
+  height: 17px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 207.5px;
+  width: 185.5px;
+  height: 279.8px;
+  text-align: left;
+  font-size: 13.99px;
+  color: var(--color-white);
+  font-family: var(--font-rosarivo);
+}

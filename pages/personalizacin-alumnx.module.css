@@ -1,0 +1,61 @@
+.personalizacinAlumnxChild {
+  position: absolute;
+  top: 849px;
+  left: 178px;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.image1Icon,
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 844px;
+  left: 357px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  left: 95px;
+}
+.roomService1Icon,
+.sandwich1Icon {
+  left: 269px;
+}
+.sandwich1Icon {
+  left: 8px;
+}
+.personalizacinAlumnxInner,
+.personalizacinAlumnxItem {
+  position: absolute;
+  top: 830.5px;
+  left: 167.5px;
+  width: 4px;
+  height: 101.5px;
+}
+.personalizacinAlumnxInner {
+  left: 256.5px;
+}
+.lineIcon,
+.personalizacinAlumnxChild1 {
+  position: absolute;
+  top: 829px;
+  left: 2px;
+  width: 169px;
+  height: 4px;
+}
+.personalizacinAlumnxChild1 {
+  left: 258px;
+}
+.personalizacinAlumnx {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+}

@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Rosarivo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-rosarivo: Rosarivo;
+  --font-open-sans: "Open Sans";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-silver: #b4c8d0;
+  --color-white: #fff;
+  --color-darkslategray: rgba(65, 65, 65, 0.5);
+  --color-blanchedalmond: #efe3c8;
+  --color-tan: #d2af84;
+  --color-gray-100: rgba(28, 35, 49, 0.5);
+  --color-gray-200: rgba(255, 255, 255, 0.1);
+  --color-gray-300: rgba(255, 255, 255, 0.08);
+  --color-black: #000;
+  --color-dimgray: #676767;
+
+  /* Paddings */
+  --padding-smi: 13px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-12xs: 1px;
+  --br-xs: 12px;
+  --br-smi-6: 12.6px;
+  --br-31xl: 50px;
+  --br-2xs: 11px;
+}

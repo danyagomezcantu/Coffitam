@@ -1,0 +1,7 @@
+.menComidaAdmin {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+}

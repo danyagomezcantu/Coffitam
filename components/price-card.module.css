@@ -1,0 +1,110 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12.61px;
+  background-color: var(--color-gray-200);
+  width: 185.5px;
+  height: 280.1px;
+}
+.groupItem {
+  top: 14.6px;
+  border-radius: var(--br-mini);
+  height: 135.2px;
+  object-fit: cover;
+}
+.burstingBlueberry,
+.groupInner,
+.groupItem {
+  position: absolute;
+  left: 16.5px;
+  width: 152.5px;
+}
+.burstingBlueberry {
+  top: 159.5px;
+  line-height: 145%;
+  display: inline-block;
+  height: 42.6px;
+}
+.groupInner {
+  top: 218px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-300);
+  height: 47.5px;
+}
+.div {
+  position: absolute;
+  top: 231.4px;
+  left: 41.2px;
+  font-size: var(--font-size-base);
+  line-height: 115%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-tan);
+  display: inline-block;
+  width: 50.8px;
+  height: 21.9px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 218px;
+  left: 115.4px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blanchedalmond);
+  width: 53.6px;
+  height: 47.5px;
+}
+.groupIcon {
+  position: absolute;
+  height: 5.64%;
+  width: 9.65%;
+  top: 83.47%;
+  right: 18.49%;
+  bottom: 10.89%;
+  left: 71.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild1 {
+  position: absolute;
+  top: 14.6px;
+  left: 16.5px;
+  border-radius: var(--br-mini) 0 var(--br-mini) var(--br-12xs);
+  background-color: var(--color-darkslategray);
+  backdrop-filter: blur(15px);
+  width: 56.3px;
+  height: 24.4px;
+}
+.groupChild2 {
+  position: absolute;
+  height: 4.36%;
+  width: 7.76%;
+  top: 7.39%;
+  right: 78.92%;
+  bottom: 88.25%;
+  left: 13.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1 {
+  position: absolute;
+  top: 15.8px;
+  left: 45.3px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 17.9px;
+  height: 17px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 299.5px;
+  left: 0;
+  width: 185.5px;
+  height: 280.1px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-rosarivo);
+}

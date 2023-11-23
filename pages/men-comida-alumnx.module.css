@@ -1,0 +1,59 @@
+.menComidaAlumnxChild {
+  position: absolute;
+  top: 849px;
+  left: 178px;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.image1Icon {
+  position: absolute;
+  top: 844px;
+  left: 357px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.mugHotAlt1Icon {
+  left: 95px;
+  opacity: 0.5;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 844px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.roomService1Icon {
+  left: 269px;
+  opacity: 0.5;
+}
+.sandwich1Icon {
+  left: 8px;
+}
+.menComidaAlumnxItem {
+  position: absolute;
+  top: 830.5px;
+  left: 81.5px;
+  width: 4px;
+  height: 101.5px;
+}
+.menComidaAlumnxInner {
+  position: absolute;
+  top: 828px;
+  left: 83px;
+  width: 343px;
+  height: 4px;
+}
+.menComidaAlumnx {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+}

@@ -1,0 +1,41 @@
+.pantallaDeBienvenidaChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #7497af,
+    #799db4 16.25%,
+    #668aa2 35.53%,
+    #577a90 50.93%,
+    #3c5b6f 68.14%,
+    #264153 78.95%,
+    #152c3c 90.27%,
+    #081d28 97.82%
+  );
+  width: 430px;
+  height: 190px;
+}
+.pantallaDeBienvenidaItem {
+  position: absolute;
+  top: 730px;
+  left: 0;
+  background: linear-gradient(180deg, #120908, #000);
+  width: 430px;
+  height: 202px;
+}
+.capturaDePantalla20231120 {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  width: 553px;
+  height: 552px;
+  object-fit: cover;
+}
+.pantallaDeBienvenida {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+}

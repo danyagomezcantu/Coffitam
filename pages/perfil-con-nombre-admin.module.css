@@ -1,0 +1,82 @@
+.perfilConNombreAdminChild {
+  position: absolute;
+  top: 849px;
+  left: 178px;
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  object-fit: cover;
+}
+.image1Icon {
+  position: absolute;
+  top: 844px;
+  left: 357px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.perfilConNombreAdminItem,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 844px;
+  left: 95px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.perfilConNombreAdminItem,
+.roomService1Icon,
+.sandwich1Icon {
+  left: 269px;
+}
+.perfilConNombreAdminItem,
+.sandwich1Icon {
+  left: 8px;
+}
+.perfilConNombreAdminItem {
+  top: 102px;
+  left: 73px;
+  border-radius: 50%;
+  width: 283px;
+  height: 278px;
+}
+.ellipseIcon,
+.perfilConNombreAdminInner {
+  position: absolute;
+  top: 158px;
+  left: 132px;
+  border-radius: 50%;
+  width: 166px;
+  height: 158px;
+}
+.perfilConNombreAdminInner {
+  background-color: var(--color-white);
+}
+.ellipseIcon {
+  object-fit: cover;
+}
+.lineDiv,
+.lineIcon {
+  position: absolute;
+  top: 830.5px;
+  left: 350px;
+  width: 4px;
+  height: 101.5px;
+}
+.lineDiv {
+  top: 828.5px;
+  left: 0.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 354px;
+  height: 3px;
+}
+.perfilConNombreAdmin {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+}
